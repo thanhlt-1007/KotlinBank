@@ -1,5 +1,7 @@
 # KOTLIN BANK
 
+- Reference: https://www.youtube.com/watch?v=TJcshrJOnsE&list=PL6gx4Cwl9DGDPsneZWaOFg0H2wsundyGr&index=1
+
 ## 1. Development Environment
 
 - Spring Boot 3.1.2
