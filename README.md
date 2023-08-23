@@ -29,3 +29,13 @@
 ```sh
 http://localhost:8080
 ```
+
+## 4. Endpoints
+
+```sh
+curl -XGET 'http://localhost:8080'
+```
+
+```sh
+curl -XGET 'http://localhost:8080/api/v1/hello'
+```
